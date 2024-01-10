@@ -5,7 +5,7 @@ updates:
     open-pull-requests-limit: 5
     package-ecosystem: gitsubmodule
     reviewers:
-      - spacemeowx2
+      - CRC-Mismatch
     commit-message:
       prefix: submodule
     schedule:
@@ -15,7 +15,7 @@ updates:
     open-pull-requests-limit: 5
     package-ecosystem: github-actions
     reviewers:
-      - spacemeowx2
+      - CRC-Mismatch
     commit-message:
       prefix: gha
     schedule:
